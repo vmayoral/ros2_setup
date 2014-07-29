@@ -1,8 +1,7 @@
 ROS 2.0 Setup
 ==========
 
-`rosidl` infrastructure build instructions.
-
+The following instructions describe how to setup the environment to start working with ROS 2.0.
 
 ###Debian dependencies:
 * Python 3
